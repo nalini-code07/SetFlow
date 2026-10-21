@@ -1,0 +1,20 @@
+[
+  {"id": 1, "title": "Harbour Lights", "artist": "Mira Sol", "seconds": 214, "tags": ["acoustic", "slow"]},
+  {"id": 2, "title": "Paper Boats", "artist": "The Tidewaters", "seconds": 187, "tags": ["acoustic"]},
+  {"id": 3, "title": "Fuse Box", "artist": "Static Garden", "seconds": 241, "tags": ["loud", "electric"]},
+  {"id": 4, "title": "Lantern Street", "artist": "Mira Sol", "seconds": 256, "tags": ["acoustic"]},
+  {"id": 5, "title": "Copper Kettle", "artist": "Old Pine Trio", "seconds": 158, "tags": ["acoustic", "folk"]},
+  {"id": 6, "title": "Night Bus", "artist": "Static Garden", "seconds": 302, "tags": ["acoustic", "loud"]},
+  {"id": 7, "title": "Rain Check", "artist": "June Avery", "seconds": "four minutes", "tags": ["acoustic"]},
+  {"id": 8, "artist": "The Tidewaters", "seconds": 199, "tags": ["acoustic"]},
+  {"id": 9, "title": "Slow Thaw", "artist": "June Avery", "seconds": 333, "tags": ["acoustic", "slow"]},
+  {"id": 10, "title": "Brass Tacks", "artist": "Old Pine Trio", "seconds": 276, "tags": ["acoustic", "loud"]},
+  {"id": 11, "title": "Static Bloom", "artist": "Static Garden", "seconds": -30, "tags": ["loud"]},
+  {"id": 12, "title": "Window Seat", "artist": "Kofi Mensah", "seconds": 229, "tags": ["acoustic"]},
+  {"id": 13, "title": "Last Ferry", "artist": "Kofi Mensah", "seconds": 318, "tags": "acoustic"},
+  {"id": 14, "title": "Short Fuse", "artist": "", "seconds": 95, "tags": ["loud"]},
+  {"id": 15, "title": "Moth Song", "artist": "Mira Sol", "seconds": "201", "tags": ["Acoustic"]},
+  {"id": 2, "title": "Paper Boats (Reprise)", "artist": "The Tidewaters", "seconds": 120, "tags": ["acoustic"]},
+  {"id": 16, "title": "Long Way Home", "artist": "The Tidewaters", "seconds": 290, "tags": ["acoustic"]}
+]
+
