@@ -11,3 +11,5 @@ __pycache__/
 # <<< project guide (managed) <<<
 
 # Python cache files
+
+__pycache__/
